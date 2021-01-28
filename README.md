@@ -1,1 +1,1 @@
-![Metrics](https://github.com/SPECTADO/SPECTADO/blob/main/github-metrics.svg)
+![Metrics](https://github.com/SPECTADO/SPECTADO/blob/master/github-metrics.svg)
